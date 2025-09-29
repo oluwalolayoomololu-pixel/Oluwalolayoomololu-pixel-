@@ -25,7 +25,7 @@ Designed a sales and revenue dashboard to track KPIs, trends, and regional insig
 **Skills Used:** Power Query, Data Modeling, DAX, Business Insights.  
  
 
-### 🧠 [Alzheimer’s Dataset Analysis](#
+### 🧠 [Alzheimer’s brain scan Analysis - Power BI](#)
 Designed abd MRI brain scan of Alzheimer patients.
 
 **Skills Used** Power Query , SQL , Excel, Data Cleaning .
